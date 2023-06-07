@@ -10,6 +10,8 @@ The upvote and comment functionality is very basic - a user can upvote an articl
 
 New ideas/issues are currently listed in a [Github Project](https://github.com/users/vpatel22/projects/2) and will be worked on eventually!
 
+The front-end for this project lives [here](https://github.com/vpatel22/my-blog-app-frontend) - any changes there will be pushed to this repo (and deployed to Google Cloud) after a new build folder is generated.
+
 ## Background context
 
 This project is heavily based off of the [React: Creating and Hosting a Full-Stack Site](https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-15153869?contextUrn=urn%3Ali%3AlyndaLearningPath%3A593715e0498e9e9be7fb8506&u=103733490) LinkedIn Learning course by Shaun Wassell. Feel free to take a look at the [Github Repo](https://github.com/LinkedInLearning/react-creating-and-hosting-a-full-stack-site-3209140) for that project as well.
@@ -22,7 +24,7 @@ Currently, there are no large differences in how this application looks and func
 
 ## Running this application locally (WIP, not fully available yet)
 
-You will need to clone to repos to run this project locally, as this repo only contains the back-end for the project (the */build* folder containing the front-end components were not committed). The FE repo can be found [here](). To run this project:
+You will need to clone two repos to run this project locally, as this repo only contains the back-end for the project (the */build* folder containing the front-end components were not committed). The FE repo can be found [here](https://github.com/vpatel22/my-blog-app-frontend). To run this project:
 
 1. Run `npm install`
 2. Set up mongodb locally using the instructions 
