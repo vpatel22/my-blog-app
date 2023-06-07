@@ -8,7 +8,7 @@ Right now all articles are visible upon page load - however, the upvote and comm
 
 The upvote and comment functionality is very basic - a user can upvote an article once but cannot remove an upvote. There is also no downvote option right now. Comments cannot be edited or removed.
 
-New ideas/issues are currently listed in a [Github Project]() and will be worked on eventually!
+New ideas/issues are currently listed in a [Github Project](https://github.com/users/vpatel22/projects/2) and will be worked on eventually!
 
 ## Background context
 
